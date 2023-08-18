@@ -1,0 +1,6 @@
+2023-08-18 08:13:22,034 INFO 8 [egg-schedule]: register schedule /home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2023-08-18 08:13:22,034 INFO 8 [egg-schedule]: register schedule /home/projects/stackblitz-starters-94eqef/node_modules/egg-logrotator/app/schedule/clean_log.js
+2023-08-18 08:13:22,034 INFO 8 [egg-schedule]: register schedule /home/projects/stackblitz-starters-94eqef/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2023-08-18 08:13:22,267 INFO 8 [Timer] /home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 72997737ms at 2023-08-19 04:30:00.004
+2023-08-18 08:13:22,268 INFO 8 [Timer] /home/projects/stackblitz-starters-94eqef/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 56797733ms at 2023-08-19 00:00:00.001
+2023-08-18 08:13:22,268 INFO 8 [Timer] /home/projects/stackblitz-starters-94eqef/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 56798732ms at 2023-08-19 00:00:01.000

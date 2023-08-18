@@ -1,0 +1,278 @@
+{
+  "keys": "/home/projects/stackblitz-starters-94eqef/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/home/projects/stackblitz-starters-94eqef/config/config.default.js",
+    "mapping": {
+      ".nj": "/home/projects/stackblitz-starters-94eqef/config/config.default.js",
+      ".tpl": "/home/projects/stackblitz-starters-94eqef/config/config.default.js"
+    },
+    "root": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-view/config/config.default.js",
+    "cache": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-view/config/config.default.js"
+  },
+  "security": {
+    "xframe": {
+      "enable": "/home/projects/stackblitz-starters-94eqef/config/config.local.js",
+      "value": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+    },
+    "domainWhiteList": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "type": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "useSession": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "headerName": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "queryName": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "value": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "value": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "policy": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "session": {
+    "maxAge": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-session/config/config.default.js",
+    "key": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-session/config/config.default.js",
+    "logValue": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-session/config/config.default.js"
+  },
+  "helper": {
+    "shtml": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-watcher/config/config.default.js",
+      "development": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-schedule/config/config.default.js",
+      "file": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "files": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-static/config/config.default.js",
+    "dir": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-static/config/config.default.js",
+    "preload": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-static/config/config.default.js",
+    "buffer": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/home/projects/stackblitz-starters-94eqef/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "name": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "cookies": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "proxy": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "version": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "private": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+    },
+    "scripts": {
+      "start": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+    },
+    "homepage": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+  },
+  "baseDir": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "HOME": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "rundir": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "notFound": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "sitefile": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "middlewares": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "httpClient": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "encoding": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "formLimit": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "textLimit": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "strict": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "depth": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "encoding": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "env": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "level": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "outputJSON": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "buffer": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "appLogName": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "coreLogName": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "agentLogName": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "errorLogName": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "maxSockets": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+    }
+  },
+  "meta": {
+    "enable": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "logging": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "port": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+      "hostname": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/home/projects/stackblitz-starters-94eqef/node_modules/egg/config/config.default.js"
+}
