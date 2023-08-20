@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "egg": "^2",
+    "egg": "^2.37.0",
     "egg-scripts": "^2",
     "egg-view-nunjucks": "^2"
   },
