@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "egg": "^2",
-    "egg-scripts": "^2",
+    "egg-scripts": "^2.17.0",
     "egg-view-nunjucks": "^2"
   },
   "devDependencies": {
